@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and a product designer from Nigeria</h3>
 
 
-<img src= "" align = "center" width = "400" alt = "coding"> <br>
+<img src= "https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" align = "center" width = "400" alt = "coding"> <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingiex&label=Profile%20views&color=0e75b6&style=flat" alt="kingiex" /> </p>
 
