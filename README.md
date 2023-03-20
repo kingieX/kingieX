@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kingsley Nnachi</h1>
 <h3 align="center">A passionate frontend developer and a product designer from Nigeria</h3>
-<!-- <img src= "" align = "right" width = "400" alt = "coding"> <br> -->
+
+
+<img src= "" align = "center" width = "400" alt = "coding"> <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingiex&label=Profile%20views&color=0e75b6&style=flat" alt="kingiex" /> </p>
 
