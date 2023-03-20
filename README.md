@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kingsley Nnachi</h1>
 <h3 align="center">A passionate frontend developer and a product designer from Nigeria</h3>
-<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&usqp=CAU" align = 
-"right" width = "400" alt = "coding"> <br>
+<!-- <img src= "" align = "right" width = "400" alt = "coding"> <br> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingiex&label=Profile%20views&color=0e75b6&style=flat" alt="kingiex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingiex" alt="kingiex" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingiex" alt="kingiex" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/kingsleychiman1" target="blank"><img src="https://img.shields.io/twitter/follow/kingsleychiman1?logo=twitter&style=for-the-badge" alt="kingsleychiman1" /></a> </p>
 
