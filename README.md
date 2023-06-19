@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kingsley Nnachi</h1>
-<h3 align="center">A passionate frontend developer and a product designer from Nigeria</h3>
+<h3 align="center">I am a skilled software engineer specializing in React, Python, and other front-end tools. With a passion for problem-solving and building innovative solutions. My expertise lies in creating seamless user experiences and leveraging cutting-edge technologies to drive impactful outcomes. If you're seeking a dedicated and versatile software engineer, let's connect and bring your vision to life.</h3>
 
 
 <img src= "https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" align = "center" width = "100%" alt = "coding"> <br>
