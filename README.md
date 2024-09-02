@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kingsley Nnachi</h1>
 <h3 align="center">I am a skilled software engineer specializing in React, Python, and other front-end tools. With a passion for problem-solving and building innovative solutions. My expertise lies in creating seamless user experiences and leveraging cutting-edge technologies to drive impactful outcomes. If you're seeking a dedicated and versatile software engineer, let's connect and bring your vision to life.</h3>
 
+<a href="https://gitroll.io/profile/uQy6tvb3h0mZo7m3rqQll3fT9LBH2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQy6tvb3h0mZo7m3rqQll3fT9LBH2" alt="GitRoll Profile Badge"/></a>
 
 <img src= "https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" align = "center" width = "100%" alt = "coding"> <br>
 
