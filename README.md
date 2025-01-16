@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kingsley Nnachi</h1>
-<h3 align="center">I am a skilled software engineer specializing in React, Python, and other front-end tools. With a passion for problem-solving and building innovative solutions. My expertise lies in creating seamless user experiences and leveraging cutting-edge technologies to drive impactful outcomes. If you're seeking a dedicated and versatile software engineer, let's connect and bring your vision to life.</h3>
+<h3 align="center">
+  I am a skilled software engineer specializing in React, Next.js, TypeScript, and modern front-end development frameworks. With expertise in creating intuitive and responsive user interfaces, I excel at translating complex requirements into seamless digital experiences.  
+  My skill set also includes proficiency in Python, RESTful APIs, GraphQL, and integrating backend systems for end-to-end solutions.  
+  Passionate about problem-solving and innovative design, I leverage cutting-edge technologies such as TailwindCSS, Styled Components, and state management tools like Redux and Zustand.  
+  I am adept at working with agile teams, delivering scalable applications, and continuously learning to stay ahead in the ever-evolving tech landscape.  
+  If you're seeking a dedicated and versatile software engineer to bring your vision to life, let's connect and collaborate on impactful solutions.
+</h3>
+
 
 <a href="https://gitroll.io/profile/uQy6tvb3h0mZo7m3rqQll3fT9LBH2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQy6tvb3h0mZo7m3rqQll3fT9LBH2" alt="GitRoll Profile Badge"/></a>
 
